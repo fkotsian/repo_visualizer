@@ -6,7 +6,7 @@ Generates ~UML diagrams
 
 * User can target a github URL 
 * A text page can be converted into objects
-*   The messages in a file can be captured
+* The messages in a file can be captured
  
 * The objects can be displayed in a UI
 * The UI displays the objects nicely spaced out using some sort of algorithm
